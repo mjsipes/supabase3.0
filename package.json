@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "tldr": "^3.4.0"
+  },
+  "name": "supabase3.0",
+  "version": "1.0.0",
+  "description": "hi baba",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
